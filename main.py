@@ -16,6 +16,3 @@ def add(a: int, b: int) -> int:
         Use this tool ONLY for mathematical addition.
         """
         return a + b
-
-if __name__ == "__main__":
-    mcp.run(transport="streamable-http")
